@@ -1,0 +1,8 @@
+{
+  "distance": 10,
+  "base_fare": 2.0,
+  "fare_multiplier": 1.5,
+  "driver_rating": 4.8,
+  "driver_phone": "012-3456789",
+  "class": "PremiumRide"
+}
